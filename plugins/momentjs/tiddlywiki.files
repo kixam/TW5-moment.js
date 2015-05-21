@@ -1,0 +1,19 @@
+{
+  "tiddlers": [
+    {
+      "file": "moment/min/moment-with-locales.min.js",
+      "fields": {
+        "type": "application/javascript",
+        "title": "$:/plugins/kixam/moment/moment.js",
+        "module-type": "library"
+      }
+    },
+    {
+      "file": "icon.svg",
+      "fields": {
+        "title": "$:/plugins/kixam/moment/icon",
+        "tags": "$:/tags/Image"
+      }
+    }
+  ]
+}
