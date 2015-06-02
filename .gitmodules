@@ -1,3 +1,3 @@
-[submodule "plugins/momentjs/moment"]
-	path = plugins/momentjs/moment
+[submodule "plugins/moment/moment"]
+	path = plugins/moment/moment
 	url = https://github.com/moment/moment.git
