@@ -14,6 +14,18 @@
         "title": "$:/plugins/kixam/moment/icon",
         "tags": "$:/tags/Image"
       }
+    },
+    {
+      "file": "readme.tid",
+      "fields": {
+        "title": "$:/plugins/kixam/moment/readme"
+      }
+    },
+    {
+      "file": "license.tid",
+      "fields": {
+        "title": "$:/plugins/kixam/moment/license"
+      }
     }
   ]
 }
