@@ -12,7 +12,8 @@
       "file": "icon.svg",
       "fields": {
         "title": "$:/plugins/kixam/moment/icon",
-        "tags": "$:/tags/Image"
+        "tags": "$:/tags/Image",
+        "type": "text/vnd.tiddlywiki"
       }
     },
     {
