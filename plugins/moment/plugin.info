@@ -2,7 +2,7 @@
   "title": "$:/plugins/kixam/moment",
   "description": "moment.js",
   "author": "kixam",
-  "version": "2.29.1",
+  "version": "2.30.1",
   "core-version": ">=5.1.8",
   "source": "https://github.com/kixam/TW5-moment.js",
   "list": "readme license",
